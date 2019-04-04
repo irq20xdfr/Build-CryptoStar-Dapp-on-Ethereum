@@ -8,6 +8,7 @@ blockchain implementations.
 
 * Symbol: __GSR__
 * Name: __GetAStar__
+* Contract Address in Rinkeby Network: __0xF14Fb242B6Efd8D210468cbd87bb36E18C60fc47__ 
 
 ## Install node packages
 
